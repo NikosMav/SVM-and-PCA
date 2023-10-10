@@ -2,8 +2,6 @@
 
 ## 3rd Programming Assignment
 
-**Student:** Νικόλαος Μαυραπίδης (sdi1700082)
-
 ---
 
 ## Overview
