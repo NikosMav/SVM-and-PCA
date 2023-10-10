@@ -2,13 +2,9 @@
 
 ## 3rd Programming Assignment
 
----
-
 ## Overview
 
 This Python notebook contains the code and documentation for the 3rd programming assignment for the "Μηχανική Μάθηση" (Machine Learning) course (ΕΠ08) at NKUA. In this assignment, we perform various tasks related to machine learning, including data preprocessing, hyperparameter tuning, SVM classification, and dimensionality reduction using PCA (Principal Component Analysis).
-
----
 
 ## Getting Started
 
@@ -19,8 +15,6 @@ To run this notebook, follow these steps:
 2. Data Files: The assignment assumes the presence of two data files: `mnist_test.csv` and `mnist_train.csv`. Make sure these files are available in your Google Drive at the specified paths.
 
 3. Dependencies: Ensure that you have the required Python libraries installed, such as NumPy, pandas, scikit-learn, and others. You can install these libraries using pip or conda.
-
----
 
 ## Notebook Structure
 
@@ -44,16 +38,10 @@ We train an SVM classifier using the best parameters obtained from hyperparamete
 
 In this section, we perform dimensionality reduction using PCA. We reduce the dataset to different percentages of sustained covariance (0.95 and 0.75) and evaluate the SVM classifier's performance on the reduced datasets.
 
----
-
 ## Results
 
 The results of the SVM classifier and dimensionality reduction experiments are provided in the notebook. These results include accuracy, precision, recall, F1-score, and the execution time for each experiment.
 
----
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
----
