@@ -54,6 +54,6 @@ The results of the SVM classifier and dimensionality reduction experiments are p
 
 ## License
 
-This code is provided under the [Your License Name] license. Feel free to modify and use it for educational purposes.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ---
