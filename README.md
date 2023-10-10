@@ -1,7 +1,5 @@
 # Machine Learning Exercise
 
-## 3rd Programming Assignment
-
 ## Overview
 
 This Python notebook contains the code and documentation for the 3rd programming assignment for the "Μηχανική Μάθηση" (Machine Learning) course (ΕΠ08) at NKUA. In this assignment, we perform various tasks related to machine learning, including data preprocessing, hyperparameter tuning, SVM classification, and dimensionality reduction using PCA (Principal Component Analysis).
